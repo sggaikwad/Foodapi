@@ -1,23 +1,23 @@
 [
   {
     "id": "1",
-    "image": "https://b.zmtcdn.com/data/dish_photos/8f9/295ede32518015ed2cb7dbb8b72548f9.jpg?fit=around|130:130&crop=130:130;*,*",
-    "video": "https://youtu.be/SZByh7nXp1U",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8f9/295ede32518015ed2cb7dbb8b72548f9.jpg",
     "foodname": "Veg Biryani",
-    "prise": "₹ 290.89",
-    "category": "vag",
-    "about": "Chutney+Panchmel Dal+Churma+2 Bati+Aloo Subzi+Adrak Harimirch+Mouth Freshner",
-    "country": "india"
+    "price": "290.89",
+    "category": "Veg",
+    "about": "Chutney+Panchmel Dal+Churma+2 Bati+Aloo Subzi+Adrak Harimirch+Mouth Freshener",
+    "country": "India",
+    "author": "Sudhanshu Developer"
   },
   {
     "id": "2",
-    "image": "https://b.zmtcdn.com/data/dish_photos/2fb/7a219152a6494ff72334b847fbdfb2fb.jpg?fit=around|130:130&crop=130:130;*,*",
-    "video": "https://youtu.be/bXgxzzNm0U8",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2fb/7a219152a6494ff72334b847fbdfb2fb.jpg",
     "foodname": "Veg Fried Rice",
-    "prise": "₹ 173.68",
-    "category": "vag",
-    "about": "Veg Fried Rice",
-    "country": "india"
+    "price": "173.68",
+    "category": "Veg",
+    "about": "Flavored fried rice with mixed vegetables.",
+    "country": "India",
+    "author": "Sudhanshu Developer"
   },
   {
     "id": "3",
